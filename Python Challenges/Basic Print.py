@@ -1,0 +1,5 @@
+print (5+5)
+print(50-10)
+print(100/2)
+print(6*3)
+print(2**3) 
